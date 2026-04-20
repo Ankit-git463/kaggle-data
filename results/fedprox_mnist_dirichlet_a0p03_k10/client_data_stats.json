@@ -1,0 +1,99 @@
+{
+  "partition_type": "dirichlet",
+  "num_clients": 10,
+  "total_train_samples": 60000,
+  "sample_count_summary": {
+    "min": 254,
+    "max": 13152,
+    "mean": 6000.0
+  },
+  "clients": [
+    {
+      "client_id": 0,
+      "num_samples": 12599,
+      "label_distribution": {
+        "1": 6699,
+        "6": 1,
+        "9": 5899
+      }
+    },
+    {
+      "client_id": 1,
+      "num_samples": 5419,
+      "label_distribution": {
+        "5": 5419
+      }
+    },
+    {
+      "client_id": 2,
+      "num_samples": 8131,
+      "label_distribution": {
+        "0": 5836,
+        "2": 2270,
+        "6": 25
+      }
+    },
+    {
+      "client_id": 3,
+      "num_samples": 13152,
+      "label_distribution": {
+        "0": 6,
+        "2": 748,
+        "3": 6131,
+        "5": 2,
+        "7": 6265
+      }
+    },
+    {
+      "client_id": 4,
+      "num_samples": 2459,
+      "label_distribution": {
+        "2": 2249,
+        "4": 155,
+        "8": 55
+      }
+    },
+    {
+      "client_id": 5,
+      "num_samples": 5886,
+      "label_distribution": {
+        "4": 90,
+        "8": 5796
+      }
+    },
+    {
+      "client_id": 6,
+      "num_samples": 5729,
+      "label_distribution": {
+        "1": 11,
+        "6": 5718
+      }
+    },
+    {
+      "client_id": 7,
+      "num_samples": 685,
+      "label_distribution": {
+        "2": 685
+      }
+    },
+    {
+      "client_id": 8,
+      "num_samples": 254,
+      "label_distribution": {
+        "1": 32,
+        "6": 174,
+        "9": 48
+      }
+    },
+    {
+      "client_id": 9,
+      "num_samples": 5686,
+      "label_distribution": {
+        "0": 81,
+        "2": 6,
+        "4": 5597,
+        "9": 2
+      }
+    }
+  ]
+}
